@@ -2,7 +2,7 @@
 🎯 Business/Data Analyst | Power BI Developer | Former Software Developer
 
 I'm a motivated Business/Data Analyst and Power BI Developer with 2.5 years of experience as a Software Developer. I’m passionate about transforming raw data into meaningful insights that drive better business decisions.
- 💡 I specialize in:
+- 💡 I specialize in:
   - 📊 Power BI – Interactive dashboards & visual storytelling
   - 🗄️ MS SQL Server – Data querying, transformation, and database management
   - 📈 Data Analysis – Identifying trends, solving business problems, and delivering actionable insights
