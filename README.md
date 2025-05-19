@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Satyabrata Sahoo
-🎯 Business/Data Analyst | Power BI Developer | Former Software Developer
+🎯 Data/Business Analyst | Power BI Developer | Former Software Developer
 
 I'm a motivated Business/Data Analyst and Power BI Developer with 2.5 years of experience as a Software Developer. I’m passionate about transforming raw data into meaningful insights that drive better business decisions.
 - 💡 I specialize in:
