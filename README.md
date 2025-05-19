@@ -21,9 +21,9 @@ I'm a motivated Business/Data Analyst and Power BI Developer with 2.5 years of e
 - Online Sales Dashboard Design & Data Analysis - <a href="https://github.com/satya754004/Online-Sales-Dashboard">View Dashboard</a>
 
 ## 📜 Certifications
-<p align= "center"> <img src="https://github.com/user-attachments/assets/4f329e56-286c-40be-b1b4-84b19f50916b" alt="Certificate 1" width="45%" />  <img src="https://github.com/user-attachments/assets/ed22bef1-0ea5-47c2-8cfd-ab51fbd403b0" alt="Certificate 2" width="45%"/> </p>
-
-<p align= "center"> <img src="https://github.com/user-attachments/assets/a1695f53-5b2c-4ca0-8581-a4385f192898" alt="Certificate 3" width="45%"/>  <img src="https://github.com/user-attachments/assets/2b8d545a-3ed4-4241-a6f2-786da0615f71" alt="Certificate 4" width="45%"/> </p>
+<p align= "center"> <img src="https://github.com/user-attachments/assets/a1695f53-5b2c-4ca0-8581-a4385f192898" alt="Certificate 1" width="45%" />  <img src="https://github.com/user-attachments/assets/ed22bef1-0ea5-47c2-8cfd-ab51fbd403b0" alt="Certificate 2" width="45%"/> </p>
+                     
+<p align= "center"> <img src="https://github.com/user-attachments/assets/4f329e56-286c-40be-b1b4-84b19f50916b" alt="Certificate 3" width="45%"/>  <img src="https://github.com/user-attachments/assets/2b8d545a-3ed4-4241-a6f2-786da0615f71" alt="Certificate 4" width="45%"/> </p>
 
 ## 📫 Let's Connect
 - 💼 <a href="https://www.linkedin.com/in/satyabratasahoo1996">LinkedIn</a>
