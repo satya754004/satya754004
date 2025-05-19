@@ -29,8 +29,7 @@ I'm a motivated Business/Data Analyst and Power BI Developer with 2.5 years of e
 - 💼 <a href="https://www.linkedin.com/in/satyabratasahoo1996">LinkedIn</a>
 - 📧 **Email**: satyabratasahoo2016@gmail.com
 
-💡 *"Data is the new oil. Let’s use it wisely to power better decisions."*
-
+💡 *"Data is the new oli. Let's use it wisely to power better decisions."*
 
 <!---
 satya754004/satya754004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
