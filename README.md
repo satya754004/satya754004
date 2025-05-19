@@ -25,6 +25,9 @@ I'm a motivated Business/Data Analyst and Power BI Developer with 2.5 years of e
                      
 <p align= "center"> <img src="https://github.com/user-attachments/assets/4f329e56-286c-40be-b1b4-84b19f50916b" alt="Certificate 3" width="45%"/>  <img src="https://github.com/user-attachments/assets/2b8d545a-3ed4-4241-a6f2-786da0615f71" alt="Certificate 4" width="45%"/> </p>
 
+ ![Certificate_page-0001](https://github.com/user-attachments/assets/e9315d97-87b9-40dd-a947-7cb5dd658a34)
+
+
 ## 📫 Let's Connect
 - 💼 <a href="https://www.linkedin.com/in/satyabratasahoo1996">LinkedIn</a>
 - 📧 **Email**: satyabratasahoo2016@gmail.com
