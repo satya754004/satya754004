@@ -15,10 +15,10 @@ I'm a motivated Data/Business Analyst and Power BI Developer with 2 years of exp
 
 ## 🚀 Projects
 - Blinkit Sales Dashboard - <a href="https://github.com/satya754004/Blinkit-Sale-Performance-Dashboard">View Dashboard</a>
-- Naga Garments Sales And Expense Analysis Dashboard - <a href="https://github.com/satya754004/Naga-Garments-Sales-And-Expense-Analysis-Dashboard">View Dashboard</a>
+- Naga Garments Sales And Expense Dashboard - <a href="https://github.com/satya754004/Naga-Garments-Sales-And-Expense-Analysis-Dashboard">View Dashboard</a>
 - Mobile Sales Dashboard - <a href="https://github.com/satya754004/Mobile-Sales-Dashboard">View Dashboard</a>
 - Sales Performance Dashboard - <a href="https://github.com/satya754004/Sales-Performance-Dashboard">View Dashboard</a>
-- Online Sales Dashboard Design & Data Analysis - <a href="https://github.com/satya754004/Online-Sales-Dashboard">View Dashboard</a>
+- Online Sales Dashboard - <a href="https://github.com/satya754004/Online-Sales-Dashboard">View Dashboard</a>
 
 ## 📜 Certifications
 <p align= "center"> <img src="https://github.com/user-attachments/assets/a1695f53-5b2c-4ca0-8581-a4385f192898" alt="Certificate 1" width="45%" />  <img src="https://github.com/user-attachments/assets/ed22bef1-0ea5-47c2-8cfd-ab51fbd403b0" alt="Certificate 2" width="45%"/> </p>
