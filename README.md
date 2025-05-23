@@ -10,12 +10,12 @@ I'm a motivated Data/Business Analyst and Power BI Developer with 2 years of exp
 
 ## 🛠️ Skills
 - **BI & Visualization:** Power BI, DAX, Power Query  
-- **Databases:** MS SQL Server, MySQL  
+- **Databases:** MS SQL Server 
 - **Programming:** SQL
 
 ## 🚀 Projects
-- Blinkit Sale Performance Dashboard - <a href="https://github.com/satya754004/Blinkit-Sale-Performance-Dashboard">View Dashboard</a>
-- Naga-Garments Sales And Expense Analysis Dashboard - <a href="https://github.com/satya754004/Naga-Garments-Sales-And-Expense-Analysis-Dashboard">View Dashboard</a>
+- Blinkit Sales Dashboard - <a href="https://github.com/satya754004/Blinkit-Sale-Performance-Dashboard">View Dashboard</a>
+- Naga Garments Sales And Expense Analysis Dashboard - <a href="https://github.com/satya754004/Naga-Garments-Sales-And-Expense-Analysis-Dashboard">View Dashboard</a>
 - Mobile Sales Dashboard - <a href="https://github.com/satya754004/Mobile-Sales-Dashboard">View Dashboard</a>
 - Sales Performance Dashboard - <a href="https://github.com/satya754004/Sales-Performance-Dashboard">View Dashboard</a>
 - Online Sales Dashboard Design & Data Analysis - <a href="https://github.com/satya754004/Online-Sales-Dashboard">View Dashboard</a>
